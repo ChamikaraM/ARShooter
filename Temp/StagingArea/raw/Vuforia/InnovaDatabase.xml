@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pic" size="1050.000000 584.415588" />
+    <ImageTarget name="innova" size="6.000000 8.891429" />
+  </Tracking>
+</QCARConfig>

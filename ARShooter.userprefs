@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Baberian.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Gun.cs" Line="11" Column="32" />
+      <File FileName="Assets\Scripts\uiManager.cs" Line="27" Column="2" />
+      <File FileName="Assets\MainMenu.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\Baberian.cs" Line="12" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
