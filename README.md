@@ -1,7 +1,7 @@
 
 # 🎮 About
 
-**Catch the Conan** is a prototype mobile app designed as a fun learning project to explore **augmented reality (AR)** development. This basic AR game, inspired by *Pokemon GO*, aims to make shopping more exciting! Players can find hidden objects in supermarket posters and earn 🎉 discounts offered on specific days.  
+**AR Shooter** is a prototype mobile app designed as a fun learning project to explore **augmented reality (AR)** development. This basic AR game, inspired by *Pokemon GO*, aims to make shopping more exciting! Players can find hidden objects in supermarket posters and earn 🎉 discounts offered on specific days.  
 This app was built for educational purposes to learn AR development. It includes a working prototype of the game, and many advanced features are ideas proposed for future versions.  
 
 ---
@@ -22,8 +22,8 @@ This app was built for educational purposes to learn AR development. It includes
 ---
 
 ## 📸 Screenshots
-![1](Snaps/1.jpg)
-![2](Snaps/3.jpg)
+<img src="Snaps/1.jpg" width="300">
+<img src="Snaps/3.jpg" width="300">
 
 ---
 
