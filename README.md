@@ -24,6 +24,7 @@ This app was built for educational purposes to learn AR development. It includes
 ## 📸 Screenshots
 <img src="Snaps/1.jpg" width="300">
 <img src="Snaps/3.jpg" width="300">
+<img src="Snaps/5.jpg" height="300">
 
 ---
 
